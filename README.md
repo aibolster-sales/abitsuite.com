@@ -1,5 +1,7 @@
 # concierge
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/modenero/abitsuite.svg?token=e3172ac9cfc2c95a6705cba52495c17603de3e7a685b2da2612778bf6f4312a3&ts=1581491010081)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
